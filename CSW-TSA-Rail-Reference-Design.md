@@ -90,6 +90,8 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 Execute these phases for **this framework's** compliance boundary. Map exports to SD provisions in the **Evidence Package** section below.
 
+![CSW evidence workflow for TSA Rail — the four phases from agent coverage through continuous proof, with the evidence artifact produced at each phase](assets/csw-evidence-workflow.png)
+
 | Phase | Goal | Key CSW actions | Typical duration |
 |-------|------|-----------------|------------------|
 | **1 — Coverage** | Every in-scope workload in CSW | Install agents/connectors; apply compliance labels; create scope | Days 1–10 |
@@ -205,6 +207,8 @@ packet inspection of rail or OT protocols.
 CSW's contribution is on the **IT side of the IT/OT boundary** and
 within the IT systems that support rail operations. For rail that is a
 substantial and genuinely critical population:
+
+![TSA Rail IT/OT boundary — the IT-side population CSW reaches set against the OT device layer it does not, with the PTC Back Office Server called out](assets/csw-scope-boundary.png)
 
 | In CSW's reach (IT-side) | Out of CSW's reach (OT device layer) |
 |---|---|
