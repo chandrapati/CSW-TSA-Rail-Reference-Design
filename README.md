@@ -43,6 +43,7 @@ You are not translating CSW output into the regulator's vocabulary. The regulato
 | Document | For | Use it to |
 |---|---|---|
 | **[Reference Design](CSW-TSA-Rail-Reference-Design.md)** | SE / platform / security engineering | Build CSW end-to-end: zone architecture, labels, ADM, Section III.B policy, provision-by-provision evidence |
+| **Compliance Report** ([PDF](CSW-TSA-Rail-Compliance-Report.pdf) · [DOCX](CSW-TSA-Rail-Compliance-Report.docx)) | Compliance team, accountable officer, TSA inspector | Hand over at an inspection: provision mapping, the evidence package, and the IT/OT boundary stated plainly |
 | **[IT/OT Scope Boundary](CSW-TSA-Rail-Reference-Design.md#12-the-itot-scope-boundary--read-this-before-claiming-anything)** | Anyone scoping the engagement | Know exactly what CSW reaches and what belongs to the OT stack — **read this first** |
 | **[Evidence Boundary](CSW-TSA-Rail-Reference-Design.md#7-evidence-boundary--what-you-must-supply-outside-csw)** | Compliance, accountable officer, inspector | Know what CSW evidences and what must come from elsewhere |
 | **[Evidence Checklist](docs/evidence-checklist.md)** | Evidence owner | A printable "what to export, from where, how often" worklist keyed to SD provisions |
