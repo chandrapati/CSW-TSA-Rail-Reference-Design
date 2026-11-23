@@ -717,6 +717,7 @@ CSW addresses the IT side of that requirement only.
 ## Related Frameworks
 
 - [TSA Pipeline Security Directive](https://github.com/chandrapati/CSW-TSA-Pipeline-Reference-Design) — the sister TSA mode; the four performance-based outcomes are harmonized, so the zone model and evidence pack transfer closely.
+- [TSA Aviation (Joint EA 23-01)](https://github.com/chandrapati/CSW-TSA-Aviation-Reference-Design) — **airlines and airports are not covered by this SD.** Aviation cyber requirements arrived as an emergency amendment to the TSA-approved security program under 49 CFR 1542.105(d) / 1544.105(d), and the amendment text is **Sensitive Security Information**, so no clause-level mapping is possible there. Use that design, not this one, for aircraft and airport operators.
 - [NERC CIP](https://github.com/chandrapati/CSW-NERC-CIP-Reference-Design) — the bulk-electric-system analogue; identical IT-side ESP-enclave patterns apply.
 - [IEC 62443](https://github.com/chandrapati/CSW-IEC62443-Reference-Design) — zones and conduits, the engineering vocabulary behind the SD's Section III.B zone language.
 - [NIST SP 800-82](https://github.com/chandrapati/CSW-NIST-800-82-Reference-Design) — OT security guidance for the estate surrounding the devices CSW does not reach.
