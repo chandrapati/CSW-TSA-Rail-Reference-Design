@@ -390,6 +390,9 @@ enumerated in §7.
 ## 3. Scope Architecture and Labeling
 
 Section III.B.1.c requires you to describe how IT and OT systems are
+
+![TSA Rail scope architecture — the recommended CSW scope hierarchy, with label-driven membership so the boundary stays current](assets/csw-scope-architecture.png)
+
 "defined and organized into logical zones based on criticality,
 consequence, and operational necessity." That sentence is a
 specification for a scope tree. Build it so that the tree *is* the
